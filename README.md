@@ -1,3 +1,1 @@
-My Style Bootstrap
-
-BEM methodology in practice and highly opinionated.
+Opinionated personal CSS framework with BEM methodology
