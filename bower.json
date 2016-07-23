@@ -1,0 +1,24 @@
+{
+  "name": "minstyle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/emingchn/minstyle",
+  "authors": [
+    "emingchn <emingchn@gmail.com>"
+  ],
+  "description": "Opinionated personal css framework",
+  "keywords": [
+    "style",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "main": [
+    "style.scss",
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

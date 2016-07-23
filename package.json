@@ -1,0 +1,23 @@
+{
+  "name": "minstyle",
+  "version": "0.0.1",
+  "description": "Opinionated personal css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emingchn/minstyle.git"
+  },
+  "keywords": [
+    "style",
+    "bootstrap"
+  ],
+  "author": "emingchn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emingchn/minstyle/issues"
+  },
+  "homepage": "https://github.com/emingchn/minstyle"
+}
